@@ -1,0 +1,20 @@
+table,th,td{
+    border:1px solid black;
+border-collapse: collapse;
+/* center the table;*/
+/* margin:auto;*/
+margin: 0 auto;
+}
+table{
+    background-color: aquamarine;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 30%;
+}
+body{
+    background-image:
+url(Quince\ pic.png);
+background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+}
