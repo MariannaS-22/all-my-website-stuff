@@ -1,0 +1,23 @@
+table,th,td{
+    border:1px solid black;
+border-collapse: collapse;
+/* center the table;*/
+/* margin:auto;*/
+margin: 0 auto;
+}
+
+
+table{
+    background-color: aliceblue;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 5%
+ 
+}
+body{
+    background-image:
+url(https://imageio.forbes.com/blogs-images/ogdenpayne/files/2017/02/Daniel-Caesar-NEw-by-Keith-Henry.jpg?format=jpg&height=600&width=1200&fit=bounds);
+background-repeat: no-repeat;
+    background-size:cover;
+   
+}
